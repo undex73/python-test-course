@@ -1,5 +1,6 @@
-cd enviroments/
-source selenium_env/bin/activate
-cd selenium_env/selenium_course
-python lesson5_step3.py
-deactivatelesson5_step3.py
+cd enviroments/selenium_env/bin/
+source activate
+cd ~
+cd python-test-course
+python alert.py
+deactivate lesson5_step3.py
